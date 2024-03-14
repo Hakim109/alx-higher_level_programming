@@ -4,4 +4,4 @@ if __name__ == "__main__":
     num = 0
     for i in range(1, len(argv)):
         num += int(argv[i])
-        print(num)
+    print(num)
