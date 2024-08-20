@@ -1,2 +1,1 @@
-0x0A. Python - Inheritance
-by OMAR
+0x0A. Python - Inherita
